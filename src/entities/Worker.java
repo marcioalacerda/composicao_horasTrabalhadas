@@ -81,5 +81,9 @@ public class Worker {
 		}
 		return sum;
 	}
+	/* //teste de impressão dos dados
+	public String toString() {
+		return name +", " + level + ", " + baseSalary + ", " + getDepartment().getName();
+	}*/
 
 }
